@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Zanda Architectural Hardware<br>🌱 I’m currently learning: Web Servers<br>💬 Ask me about: Web Dev<br>⚡ Fun fact: I code on light mode (Just kidding)
+🔭 I’m currently working on: Zanda Architectural Hardware<br>🌱 I’m currently learning: META frameworks<br>💬 Ask me about: Web Dev<br>⚡ Fun fact: I code on light mode (Just kidding)
 
 
 ## 🌐 Socials:
